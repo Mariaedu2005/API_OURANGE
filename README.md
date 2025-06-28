@@ -68,11 +68,12 @@ Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a 
 Foi realizada a privatização do serviço de telefonia de um determinado país. As empresas vencedoras do leilão compraram o direito de implantar redes de telefonia móvel em determinadas regiões. Cada empresa de telefonia móvel será responsável pela instalação da infrastrutura de serviços e comercialização de celulares dentro deste cenário. O projeto visa o aprendizado pela prática da gestão, nos colocando em uma simulação de mercado onde precisamos encontrar soluções e aplicar os conhecimentos adquiridos dentro do curso de Gestão da Produção Industrial, oferecido pela instituição de ensino Fatec.
 
 ### Tecnológias Específicas/Apoio
-* Power Point
-* Power BI
-* Word
 * Canva
-
+* Excel
+* Power BI
+* Power Point
+* Word
+* Teams
 
 ### Mindset Digital
 No processo da realização do projeto foi preciso abrir espaço para diversas ideias dos integrantes, assim todos puderam contribuir para a realização. Nosso processo foi feito de forma contributiva, onde todos tiveram espaço para aprender e desenvolver as partes que mais tinham familiarização.
@@ -82,38 +83,66 @@ No processo da realização do projeto foi preciso abrir espaço para diversas i
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
+| Nome | Função | Status | Sprint |
+| :--- | :---: | :---: | :---: |
+| João pedro | Planilha Base de Dados | Concluído | Sprint 1 a 3 |
+| Joyce Fernandes | Responsavel pelo Relátório Final, Github e Apresentações da Empresa | Concluído | Sprint 1 a 3 |
+| Maria Eduarda | Responsável pelos relatórios das Sprints, Planilha Base de Dados, Github  | Concluído | Sprint 1 a 3 |
+| Matheus Amaral | Responsável pela Planilha Base de Dados e  Power BI  | Concluído  | Sprint 1 a 3 |
 
 ## Burndown
->Colocar aqui Burndown do projeto
+>Burndown do projeto
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
+- [x] Criação da Empresa
+- [x] Planilha de mercado e definição de onde iremos atuar
+- [x] Planilha de Base de dados, projeções de demanda e precificação
+- [x] Demonstração dos resultados obtidos
+- [x] Relatórios do Projeto
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> Atividades relizadas nesta sprint.
+
+- [x] Criação da Empresa
+- [x] Nome da empresa
+- [x] Logo da empresa
+- [x] Missão, Visão e Valores
+- [x] Análise de mercado
+- [x] Definição da região onde vamos atuar
+- [x] Definição de Público-alvo
+- [x] Relatório
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+> Atividades relizadas nesta sprint.
+
+- [x] Planilha base de dados
+- [x] Projeção de Vendas no país
+- [X] Projeção de Gasto e Despesas
+- [x] Projeção do número de equipes de campo
+- [x] Relatório
+
+
+## Sprint 3 - Desenvolvimento do Projeto
+> Atividades relizadas nesta sprint.
       
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Finalização das Planilhas de dados
+- [x] Criação do Dashboard
+- [X] Criação do Github
+- [x] Relatório
+
+
+## Sprint 4 - Conclusão
+> Atividades relizadas nesta sprint.
+
+- [x] Entrega Planejamento
+- [x] Entrega do Dashboard
+- [X] Entrega do Github
+- [x] Relatório Final
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+> Competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
 <details>
@@ -121,12 +150,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Power Bi | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Github | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -136,19 +165,22 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Trabalho em Equipe | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Organização e gestão de tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Liderança | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
 
 # Autores
-| Função | Nome |  LinkedIn & GitHub |
-| - | - | - |
-|Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+Conecte-se com a nossa equipe!
+| Função | Nome | Contato |
+| :--- | :--- | :--- |
+| **Scrum Team** | João Pedro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jopedro902) |
+| **Scrum Team** | Joyce Honório | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joyfatec) |
+| **Product Owner** | Maria Nascimento| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mariaedu2005) |
+| **Scrum Master** | Matheus Amaral | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
