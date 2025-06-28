@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API) 
 
 Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
 
@@ -24,71 +24,58 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 14/03/2025	 | concluido| [Ver Relatório](file:///C:/Users/dador/Downloads/Kickoff%20(3).pdf) | 
+|Sprint 01 | 01/04/2025 | concluido| [Ver Relatório](https://fatecspgov.sharepoint.com/:b:/r/sites/PIIGPI-20251/Shared%20Documents/General/OURANGE%20Apresenta%C3%A7%C3%A3o.pdf?csf=1&web=1&e=UiNfO2) | 
+|Sprint 02|  22/04/2025 | concluido |[Ver Relatório](https://www.canva.com/design/DAGi9s-G79E/FhESlR4sBnqmsj8F3bmbnQ/edit?utm_content=DAGi9s-G79E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | 
+|Sprint 03| 10/05/2025	 | concluido|[Ver Relatório](https://docs.google.com/presentation/d/1JE7EeF8Nvhw1putUVHZSr69xJjSqRalk/edit?slide=id.p1#slide=id.p1) | 
+|Feira de Soluções|17/06/2025 |concluido |[Ver Relatório](https://docs.google.com/presentation/d/1JE7EeF8Nvhw1putUVHZSr69xJjSqRalk/edit?slide=id.p1#slide=id.p1) | 
 
 > Possíveis status: a fazer, em progresso e concluido
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-verde"/>
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+![Captura de tela 2025-06-28 142706](https://github.com/user-attachments/assets/0e04d729-5c06-4399-bdc1-a4c5628bf4ba)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+Neste projeto, atuamos como uma consultoria estratégica para uma empresa que venceu um leilão para privatização do serviço de telefonia do país.
+Nosso objetivo é planejar a implantação da infraestrutura de rede móvel e a estratégia de comercialização de celulares na região designada, garantindo a viabilidade e o sucesso da operação.
+
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
+![Captura de tela 2025-06-28 143203](https://github.com/user-attachments/assets/8fbd441c-3705-4128-ae96-4d343d613188)
+![Captura de tela 2025-06-28 143136](https://github.com/user-attachments/assets/35cc4118-cf96-4c2f-9495-c8d3725094ac)
 
 ## Sprint 2
->Colocar o vídeo da apresentação
-
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![Captura de tela 2025-06-28 143441](https://github.com/user-attachments/assets/c4df1df5-7185-4694-adc1-e846e824f257)
 
 ## Sprint 3
->Colocar o vídeo da apresentação
-
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![Captura de tela 2025-06-28 144905](https://github.com/user-attachments/assets/88929a4a-1604-4cba-bac5-0722cbb14c6c)
 
 
-## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+## Apresentação final
+![Captura de tela 2025-06-28 145047](https://github.com/user-attachments/assets/d276f152-eca6-4400-acc1-5ebc401bc6e5)
 
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+Foi realizada a privatização do serviço de telefonia de um determinado país. As empresas vencedoras do leilão compraram o direito de implantar redes de telefonia móvel em determinadas regiões. Cada empresa de telefonia móvel será responsável pela instalação da infrastrutura de serviços e comercialização de celulares dentro deste cenário. O projeto visa o aprendizado pela prática da gestão, nos colocando em uma simulação de mercado onde precisamos encontrar soluções e aplicar os conhecimentos adquiridos dentro do curso de Gestão da Produção Industrial, oferecido pela instituição de ensino Fatec.
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
+* Power Point
+* Power BI
+* Word
+* Canva
+
+
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+No processo da realização do projeto foi preciso abrir espaço para diversas ideias dos integrantes, assim todos puderam contribuir para a realização. Nosso processo foi feito de forma contributiva, onde todos tiveram espaço para aprender e desenvolver as partes que mais tinham familiarização.
 
 # Cronograma das Sprints
 
