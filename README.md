@@ -95,13 +95,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Burndown
 >Burndown do projeto
 
+![image](https://github.com/user-attachments/assets/4a97fb2c-e726-4205-85c4-32e398801bf4)
+
 ## Sprint 1 - Concepção
 > Atividades relizadas nesta sprint.
 
 - [x] Criação da Empresa
 - [x] Nome da empresa
 - [x] Logo da empresa
-- [x] Missão, Visão e Valores
 - [x] Análise de mercado
 - [x] Definição da região onde vamos atuar
 - [x] Definição de Público-alvo
@@ -177,4 +178,4 @@ Conecte-se com a nossa equipe!
 | **Scrum Team** | João Pedro | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/jopedro902) |
 | **Scrum Team** | Joyce Honório | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joyfatec) |
 | **Product Owner** | Maria Nascimento| [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mariaedu2005) |
-| **Scrum Master** | Matheus Amaral | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](...) |
+| **Scrum Master** | Matheus Amaral | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MatheusCosta21/Inform-tica) |
