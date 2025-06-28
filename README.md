@@ -95,12 +95,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Burndown
 >Burndown do projeto
 
-- [x] Criação da Empresa
-- [x] Planilha de mercado e definição de onde iremos atuar
-- [x] Planilha de Base de dados, projeções de demanda e precificação
-- [x] Demonstração dos resultados obtidos
-- [x] Relatórios do Projeto
-
 ## Sprint 1 - Concepção
 > Atividades relizadas nesta sprint.
 
